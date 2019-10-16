@@ -1,6 +1,6 @@
 # Code Along: OOP Book Collection
 
-* We'll walk through the process using OOP to create a program manages a person's book collection
+* We'll walk through the process using OOP to create a program to manage a person's book collection
 
 
 ## Requirements
